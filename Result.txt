@@ -1,0 +1,59 @@
+level 1 :
+Solvable:  True
+Best competency:  4.5
+Worst competency 2.5
+Average competency 2.58
+
+level 2 :
+Solvable:  True
+Best competency:  6.5
+Worst competency 2.5
+Average competency 2.756666666666667
+
+level 3 :
+Solvable:  True
+Best competency:  7
+Worst competency 5
+Average competency 5.253333333333333
+
+level 4 :
+Solvable:  True
+Best competency:  10
+Worst competency 5
+Average competency 5.333333333333333
+
+level 5 :
+Solvable:  True
+Best competency:  12
+Worst competency 7.5
+Average competency 7.83
+
+level 6 :
+Solvable:  True
+Best competency:  14
+Worst competency 9
+Average competency 9.523333333333333
+
+level 7 :
+Solvable:  True
+Best competency:  25
+Worst competency 14
+Average competency 14.806666666666667
+
+level 8 :
+Solvable:  True
+Best competency:  36
+Worst competency 13
+Average competency 14.046666666666667
+
+level 9 :
+Solvable:  True
+Best competency:  80
+Worst competency 38
+Average competency 38.712666666666664
+
+level 10 :
+Solvable:  True
+Best competency:  47
+Worst competency 15
+Average competency 15.814
